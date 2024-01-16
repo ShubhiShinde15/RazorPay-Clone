@@ -1,0 +1,1 @@
+This project is a clone of Razorpay, a payment gateway solution, created for educational and learning purposes. The goal is to replicate the key features and functionalities of Razorpay to understand the underlying mechanisms of a payment gateway.
